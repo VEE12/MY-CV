@@ -1,0 +1,21 @@
+.circular-image {
+    border-radius:  50%;
+  }
+  div.a {
+    justify-content: center;
+}
+
+div.b {
+    justify-content: center;
+}
+
+div.c {
+    justify-content: center;
+}
+
+div.c {
+    justify-content: center;
+} 
+div {
+    justify-content: space-around;
+}
